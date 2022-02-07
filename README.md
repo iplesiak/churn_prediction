@@ -1,5 +1,5 @@
 # churn_prediction
-Prediction of customers' churn of a large dutch energy supplier. 
+Prediction of customers' churn of a large dutch energy supplier. Finding a best model
 
 After the analysis of above mentioned models, it was concluded that the best performing method for predicting a churn 
 is boosting with a hit rate 80.46%, however, the main drawback of the model is the difficulty of interpreting the results. 
